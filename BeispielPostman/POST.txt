@@ -1,0 +1,1 @@
+http://h2840518.stratoserver.net:5000/api/newKunde/100&Koch&Tim&Koch&Wiesentalstrasse&71397&Leutenbach&1996-07-04

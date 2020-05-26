@@ -1,0 +1,5 @@
+http://h2840518.stratoserver.net:5000/api/
+
+http://h2840518.stratoserver.net:5000/api/Kunden
+
+http://h2840518.stratoserver.net:5000/api/Kunde/Karlsruhe

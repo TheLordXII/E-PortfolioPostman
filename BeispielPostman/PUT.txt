@@ -1,0 +1,1 @@
+http://h2840518.stratoserver.net:5000/api/changeKunde/100&Bond&Tim&Koch&Wiesentalstrasse&71397&Karlsruhe&1996-07-04
